@@ -1,6 +1,6 @@
 # Hello Flask
 
-This Flask app accompanies the workshop located at [here](https://www.eventbox.dev/published/lesson/automating-cicd-on-aws-with-github-actions/index.html).
+This Flask app accompanies the blog post [here](https://www.jennapederson.com/blog/automate-your-container-deployments-with-ci-cd-and-github-actions/).
 
 ## Setup
 
